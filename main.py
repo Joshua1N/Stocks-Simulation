@@ -93,5 +93,5 @@ async def update_stock():
 
 
 
-BOT_TOKEN = 'OTcwMDM0ODUxOTQ2MzMyMTcw.Ym2FWw.KKbG8rI6OCH1b48vOkQHJpCX6K4'
+BOT_TOKEN = '...'
 client.run(BOT_TOKEN)
